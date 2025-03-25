@@ -19,13 +19,13 @@ Cocok buat kamu yang baru kenalan sama dunia AI, atau mau belajar lagi dengan ga
 💬 Ada emoji biar bacanya gak ngebosenin (yoi dongg~)  
 ✨ Cocok buat ngerangkum ulang materi ataupun tugas belajar mandiri~  
 
-## 🚀 Tips Baca dari Penulis
+## 🚀 Tips Baca dari akuu~
 
 Baca *Kenalan Seru dengan AI* dulu buat dapet fondasi.  
 Baru lanjut ke *Rangkuman Data untuk AI* — soalnya data itu jantungnya AI! ❤️  
 Kalau suka, boleh banget kasih ⭐ repo ini yaa!
 
-## 🙋 Siapa yang Bikin Ini?
+## 🙋🏻‍♀️ Siapa yang Bikin Ini?
 
 Ditulis dan dirangkum oleh ainiii~ yang pengen belajar AI bareng kamu! (Eaakk)
 Kalau kamu nemu typo, mau kontribusi, atau sekadar bilang "ini keren!" — feel free to open issues / pull request 😄
