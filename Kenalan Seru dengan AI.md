@@ -84,5 +84,6 @@ Gimana kerjanya?
 > Jadii, minat dengan AI lebih lanjut?✨
 > Siapa tahu... AI yang keren di masa depan, adalah buatan kamu 👀🔥 ( INII AMIIN BGTT!! AMININ JUGA GAA LOO YANG BACA😌???)
 
+### Kaloo mau lebih lanjut tentang seputar AI dibawah inii yaa~ 
 > [Rangkuman Data untuk AI](https://github.com/nahira08/Belajar-Dasar-AI/blob/main/Rangkuman%20Data%20untuk%20AI.md)
 
