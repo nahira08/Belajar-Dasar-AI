@@ -1,7 +1,7 @@
 # 🚀 Awal Perjalanan AI-mu!  
 > Dari data sampai algoritma, semua dimulai dari sini ✨
 
-Haaiii~ selamat datang di repo ini yaw~
+Haaiii!! selamat datang di repo ini yaw~
 
 Cocok buat kamu yang baru kenalan sama dunia AI, atau mau belajar lagi dengan gaya lebih santai~
 
