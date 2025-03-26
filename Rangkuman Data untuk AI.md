@@ -117,3 +117,7 @@ Keep learning, keep exploring, dan jangan lupa...
 **Data is the new fuel, and you’re the pilot! 🚀**
 
 > Mulai aja dulu dari dataa, AI keren itu hasil dari proses -sama kayak kamu sekarang 💪
+
+---
+### Ini Lanjutannya yaa~
+[Rangkuman Pengantar ML](https://github.com/nahira08/Belajar-Dasar-AI/blob/main/Rangkuman%20Pengantar%20ML.md)
