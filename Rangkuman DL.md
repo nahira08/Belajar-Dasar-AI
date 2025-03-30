@@ -1,7 +1,7 @@
 # 🧠 Modul 4: Deep Learning
 
 Hai kamu! kitaa ketemu lagii~🌸  
-Selamat datang di modul ke-4, yaitu... **DEEP LEARNING**!!  
+Selamat datang di modul ke-4, yaitu...**DEEP LEARNING**!!
 Ngelewatin tiga modul sebelumnya bukan hal gampang loh~ Tapi kamu bisa! Sekarang waktunya deep dive ke dunia deep learning! 🌊🤖
 Modul ini super seru karena... kita bakal bikin komputer “berpikir” layaknya manusia! 👀💡 (samaa ada trainingg-nya loo~)
 
