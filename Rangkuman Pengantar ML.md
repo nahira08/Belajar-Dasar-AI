@@ -82,3 +82,8 @@ Bedanya? ML gak PHP dan selalu konsisten~ 🤖💌 (Contohnya kek Ai charac-EKHE
 ### 🎬 Penutup ala Netflix
 ML tuh kayak drama favorit lo—penuh kejutan, kadang bikin mikir, tapi worth it sampai akhir episode.  
 See you di *season berikutnya*… yaitu **Deep Learning!** 🍿✨
+
+---
+
+### Ini Lanjutannya yaa~
+[Rangkuman DL](https://github.com/nahira08/Belajar-Dasar-AI/blob/main/Rangkuman%20DL.md)
